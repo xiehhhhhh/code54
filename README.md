@@ -5,7 +5,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileReader;
 import java.net.Socket;
-
+ 
 public class Sentor {
     
     private String ipAddress = null;
